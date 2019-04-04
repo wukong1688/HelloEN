@@ -1,0 +1,33 @@
+A:  Hello, John. How are you?
+B:  I'm fine, thanks. And you?
+A:  Very well, thanks. Nice to see you again. I haven't seen you for a long time. What have you been doing lately?
+B: Oh, nothing much really. And how is everything with you?
+A:  Fine, thanks. I've been busy lately.
+B: What have you been doing?
+A:  I've been studying for my exams. My school exams will begin next month.
+B: Really? Good luck for them.
+A: Thanks. And how are your parents?
+B: They're both very well, thanks.
+A:  Where are you going now?
+B:  I'm going to do some shopping. Why don't you come with me?
+A:  I can't. I have to meet someone.
+B:  It's been nice talking to you.
+A:  Good-bye. See you again sometime.
+
+译文：
+A:  你好，约翰。还好吗？
+B: 我很好，谢谢。你呢？
+A:  我也很好，谢谢。很高兴再次见到你。很久不见了。
+ 你最近在忙什么？
+B: 噢，没什么事。你最近怎么样？
+A:  我很好，谢谢。最近很忙。
+B: 在忙些什么？
+A:  我一直都在为考试作准备。学校下个星期开始考试。
+B: 真的吗？祝你好运！
+A:  谢谢。你的父母亲还好吗？
+B: 他们都很好，谢谢。
+A:  你现在要去哪里？
+B: 我去买东西。你干嘛不和我一起去呢？
+A:  我不能去。我约了人见面。
+B: 和你聊天真好。
+A: 再见。以后再聊。

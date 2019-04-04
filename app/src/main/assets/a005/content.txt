@@ -1,0 +1,23 @@
+A:  What's the weather forecast for today? 
+B:  Cloudy in the morning, overcast in the afternoon.
+A:  Any rain? 
+B:  No, but I wouldn't be surprised if it rained tomorrow. 
+A:  I wouldn't either. It's been looking like rain for several days. 
+
+
+译文：
+A:  今天天气预报怎么说？ 
+B:上午多云，下午阴天。
+A: 有雨吗？ 
+B:  没说。不过明天下雨的话一点也不意外。 
+A:  我也不会觉得意外。这几天一直是要下雨的样子。
+
+注解 :
+1) forecast   (n or v): = predict 预测，预报
+2) cloudy  (adj): = unclear 多云的
+例:  Weather forecast says tomorrow is cloudy.
+天气预报说明天多云。 
+3) overcast   (adj) : = dark, cloudy 阴天的
+
+
+ 

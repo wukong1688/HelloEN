@@ -1,0 +1,36 @@
+I'm not feeling well
+我不太舒服
+
+A:  Well, what is your trouble?
+B:    I'm not feeling well, doctor. I have a sore throat.
+A:  Have you any aches and pains?
+B:   Yes, my back aches.
+A:  I'll take your temperature. How long have you been feeling ill?
+B: It began the night before last. 
+A:  You have a temperature, but it's nothing serious. It's probably just the flu. I'll give you a prescription. Take this to the chemist's. Take one tablet every four hours. You should stay in bed tomorrow, and drink plenty of lemon juice.
+B:    Lots of people are ill at the moment.
+A:  It's this cold weather we're having.
+
+译文：
+A: 你怎么啦？
+B: 医生，我不舒服。我喉咙痛。
+A: 你还有其他不适吗？
+B: 是的，我的背痛。
+A:  我来量一下你的体温。你不舒服有多久了？
+B: 从前天晚上开始。
+A:  你体温有些偏高，但是不严重。可能只是感冒， 我给你开个药方。你把这个拿到药房去，每四个小时服一片药。明天你应该卧床休息，多喝点柠檬汁。
+B:  现在这个时候很多人生病。
+A:  都是因为天气太冷了。
+
+
+注解 :
+1) sore throat: 喉咙痛
+2) temperature  (n) : 温度
+例:  The temperature dropped abruptly. 
+气温骤然下降。
+3) prescription  (n) : =recipe 处方
+4) chemist's (n) : 药房 
+5) tablet  (n) : 药片
+6) plenty of: 许多
+例:  He has plenty of humorous stories to tell. 
+他有许多幽默故事可讲

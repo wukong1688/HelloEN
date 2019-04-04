@@ -1,0 +1,28 @@
+Will you make some recommendation?
+你能作个推荐吗
+
+A:  Would you like to take a look at the menu, sir?
+B:  Yes. Thank you.
+A:  Would you care for a drink before you order？
+B:  A glass of Qingdao beer.
+A:  Yes, sir. I'll bring it over. Have you decided what you'd like, sir?
+B:  Will you make some recommendation?
+
+
+译文：
+A:   先生，要不要看看菜单？
+B:   好的，谢谢。
+A:   点菜前要不要来点饮料？
+B:   一杯青岛啤酒。
+A:   好的，先生，我马上替您拿来。请问你决定点什么菜了吗，先生？
+B:   你能推荐一下吗？
+
+注解 :
+1) menu  (n) : 菜单
+2) care for: 关心,在意
+3) order  (v) : 点菜
+例:  Please order me a copy. 
+请给我订购一本。
+4) recommendation   (n) : = advice 建议
+例:  What's your recommendation?
+你推荐什么?

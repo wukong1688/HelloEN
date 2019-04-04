@@ -1,0 +1,27 @@
+payment
+结 账
+
+A:   Could I have my bill, please?
+B:   Certainly, sir.
+A:  I'm afraid there has been a mistake.
+B:   I'm sorry, sir. What seems to be the trouble?
+A:  I believe you have charged me twice for the same thing. Look, the figure of 6.5 dollar appears here, then again here.
+B:   I'll just go and check it for you, sir.
+
+
+译文：
+A:  请给我账单，好吗？
+B:   好的，先生。
+A:  恐怕这里出错了。
+B:   对不起，先生。请问有什么问题？
+A:  我想你们对同一种东西进行了两次收费。看，6.5美元这个数字出现在这里，然后这里又出现了一次。
+B:   我这就去为您核对一下，先生。
+
+注解 :
+1) bill  (n): 账单
+2) appear  (v) : 出现，显露
+例:  She will appear in court next Friday. 
+下星期五她将出庭。
+3) charge (v) : 收费
+例:  The store doesn't charge for delivery. 
+该店免费送货。

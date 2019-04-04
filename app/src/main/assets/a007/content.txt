@@ -1,0 +1,15 @@
+A:  How can I get to Lakeside Park?  
+B:  Take the No.7 bus. There's a bus stop just over there.       
+A:  Will it take me straight there?
+B:  Yes. No need to change.
+
+译文：
+A:  去湖畔公园怎么走？
+B:    乘7路公交车。那边有个车站。
+A:  能直达吗？
+B:    能。不用换车。
+  
+注解 :
+1) straight   (adv) : = directly 直接地
+例:  Go straight down the road and then turn left. 
+沿着这条路一直走，然后左转。

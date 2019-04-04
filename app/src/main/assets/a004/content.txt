@@ -1,0 +1,30 @@
+A: Hello, could I speak to Allison, please? 
+B: I'm sorry; he's out at the moment. 
+A: When do you expect him back? 
+B: I think he'll be back in about an hour at least. 
+A: Well, may I leave a message? 
+B: Yes, of course. 
+A:  Would you please ask him to call Chris when he gets back?
+B: Ok. Does he know your number? 
+A:  I'm afraid he doesn't. My mobile is 139- 2477-4026. 
+B: 13924774026. All right. Thanks for calling. Oh, hang on, someone's at the door that may be him, please hold on.
+
+
+译文：
+A: 你好，请找埃里森接电话，好吗？
+B: 很抱歉，他现在还没回来。
+A: 你估计他什么时候会回来？
+B: 我想他至少要一个小时后才能回来。
+A: 哦，那我可以留言给他吗？
+B: 当然可以。
+A: 他回来以后，你可以叫他打电话给克里斯吗？
+B: 好的，他知道你的号码吗？
+A:  恐怕他不知道。我的手机是 139-2477-4026.
+B: 13924774026？好的。谢谢你打电话来。 噢，等一下，有人在敲门，可能是他回来了。请别挂电话！
+
+
+注解 :
+1) expect  (v) : = hope, suppose 期望
+  例:  Don't expect too much of him.  别对他期望过高。
+2) message (n) : = infomp3ation 口信，消息
+3) mobile  (n) : phone 电话
